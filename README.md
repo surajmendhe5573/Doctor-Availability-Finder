@@ -26,8 +26,8 @@ The Doctor Availability Finder API provides the availability of a doctor on a sp
     "nextAvailableSlot": {
       "date": "YYYY-MM-DD",
       "time": "hh:mm"
+   }
   }
-}
 
 - Where nextAvailableSlot.date is the next available calendar date, and nextAvailableSlot.time is the start time against the first slot available.
 
